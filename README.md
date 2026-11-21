@@ -1,7 +1,11 @@
 # Broadsheet
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/bshemphang/broadsheet/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/bshemphang/broadsheet/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 One image that sums up the world's news of **Saturday 21 November 2026**,
-drawn as a newspaper front page.
+drawn as a newspaper front page. Built for the [make.fun bounty](https://make.fun/bounty/news-image-20261121).
 
 `main.ts` copies `entry.png` to the output directory. The image itself is
 drawn from scratch by `tools/draw.py` (Python + Pillow, no network, no
